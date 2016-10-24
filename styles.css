@@ -22,3 +22,9 @@ footer {
 	font-family: Helvetica;
 	border: 1px solid;
 }
+
+section {
+	background-image: url(tattoobg.jpg);
+	max-width: 400px;
+	color: red;
+}
